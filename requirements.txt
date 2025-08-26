@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+datasets
+accelerate
+hf_xet
